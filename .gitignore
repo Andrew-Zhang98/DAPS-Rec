@@ -1,0 +1,16 @@
+
+.vscode/
+
+Data/ml-1m/*
+
+Data/ml-20m/*
+
+Data/Steam/*
+
+Data/preprocessed/*
+
+experiments/ml20m_pop_DAPS/
+experiments/steam_pop_DAPS/
+experiments/ml20m_pop_DAPS/
+
+wenhu.sh
