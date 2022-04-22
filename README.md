@@ -14,6 +14,15 @@ This is the pytorch implementation of our work DAPS-Rec.
 * scipy==1.3.2
 * numpy
 
+## Datasets
+We use four datasets in our paper.
+All the datasets together with the corresponding experimental records have been uploaded to [Google Drive](https:)
+ and [Baidu Netdisk](https:).
+
+The downloaded dataset should be placed in the `Data` folder.
+
+The downloaded records should be placed in the `experiments` folder for testing process.
+
 
 ## Train
 Run `main.py` with arguments to train our model on with different templates. 
@@ -35,6 +44,8 @@ python test.py --template DAPS_ml20m
 python test.py --template DAPS_steam
 python test.py --template DAPS_beauty
 ```
+
+
 
 ## Output
 ```
