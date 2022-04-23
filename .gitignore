@@ -11,6 +11,6 @@ Data/preprocessed/*
 
 experiments/ml20m_pop_DAPS/
 experiments/steam_pop_DAPS/
-experiments/ml20m_pop_DAPS/
+experiments/ml1m_pop_DAPS/
 
 wenhu.sh

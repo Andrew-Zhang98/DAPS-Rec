@@ -5,9 +5,9 @@ def set_template(args):
     elif args.template.startswith('DAPS_ml1m'):
         args.mode = 'train'
         args.experiment_description ='ml1m_pop_DAPS'
-        args.device_idx = '4'
+        args.device_idx = '7'
 
-        args.test_path = './experiments/ml1m_DAPG_RAdam'
+        args.test_path = './experiments/ml1m_pop_DAPS'
 
         args.dataset_code = 'ml-1m'
         args.min_rating = 0
@@ -46,8 +46,8 @@ def set_template(args):
         args.model_init_seed = 0
         args.sas_n_layers = 4
         args.sas_n_heads = 2
-        args.sas_hidden_size = 64
-        args.sas_inner_size = 64*4
+        args.sas_hidden_size = 100
+        args.sas_inner_size = 100*4
         args.sas_attn_dropout_prob = 0.3
         args.sas_hidden_dropout_prob = 0.5
         args.sas_hidden_act = 'gelu'
