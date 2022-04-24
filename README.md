@@ -16,8 +16,8 @@ This is the pytorch implementation of our work DAPS-Rec.
 
 ## Datasets
 We use four datasets in our paper.
-All the datasets together with the corresponding experimental records have been uploaded to [Google Drive](https:)
- and [Baidu Netdisk](https:).
+All the datasets together with the corresponding experimental records have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1cf3uS1KI5UqXJgEdR7Znl7NeRopblIwC)
+ and [Baidu Netdisk](https://pan.baidu.com/s/14FjODdbyW4s09-Wg3nUEcw)(code:juc2).
 
 The downloaded dataset should be placed in the `Data` folder.
 

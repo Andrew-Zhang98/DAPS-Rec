@@ -14,3 +14,6 @@ experiments/steam_pop_DAPS/
 experiments/ml1m_pop_DAPS/
 
 wenhu.sh
+
+dataset.tar.gz
+experiments.tar.gz
